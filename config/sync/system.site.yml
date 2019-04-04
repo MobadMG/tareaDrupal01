@@ -1,0 +1,14 @@
+uuid: fe4039cf-e66e-4664-ad42-a7fce0b8c57a
+name: 'Demo remastered'
+mail: rock_131@hotmail.es
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
